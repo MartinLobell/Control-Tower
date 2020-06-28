@@ -1,0 +1,17 @@
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\bin\Debug\ControlTower.exe.config
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\bin\Debug\ControlTower.exe
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\bin\Debug\ControlTower.pdb
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\ControlTower.csprojAssemblyReference.cache
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\ControlTowerWindow.g.cs
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\FlightWindow.g.cs
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\App.g.cs
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\ControlTower_MarkupCompile.cache
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\ControlTower_MarkupCompile.lref
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\ControlTowerWindow.baml
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\FlightWindow.baml
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\ControlTower.g.resources
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\ControlTower.Properties.Resources.resources
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\ControlTower.csproj.GenerateResource.cache
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\ControlTower.csproj.CoreCompileInputs.cache
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\ControlTower.exe
+C:\dev\C#\C#II\Assignment5\ControlTower\ControlTower\obj\Debug\ControlTower.pdb
